@@ -5,4 +5,8 @@ server updated
 
 server updated 2
 
+<<<<<<< HEAD
 asfafvcav
+=======
+server updated 3
+>>>>>>> refs/remotes/origin/master
